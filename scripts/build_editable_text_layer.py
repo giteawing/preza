@@ -120,4 +120,10 @@ def process(src,out,manual):
             run.font.bold=size>=20
     prs.save(out)
 
-for a,b,d in [('p1.pptx','p1_editable.pptx',P1),('p2.pptx','p2_editable.pptx',P2),('p3.pptx','p3_editable.pptx',P3)]: process(a,b,d)
+if __name__ == '__main__':
+    import sys
+    configs={'p1':('p1.pptx','p1_editable.pptx',P1),'p2':('p2.pptx','p2_editable.pptx',P2),'p3':('p3.pptx','p3_editable.pptx',P3)}
+    requested=sys.argv[1:] or list(configs)
+    for key in requested:
+        if key not in configs: raise SystemExit(f'unknown part: {key}')
+        process(*configs[key])
