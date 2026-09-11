@@ -1,0 +1,2602 @@
+{
+  "total_slides": 62,
+  "parts": [
+    {
+      "file": "p1.pptx",
+      "slide_width": 12192000,
+      "slide_height": 6858000,
+      "slide_count": 19,
+      "slides": [
+        {
+          "global_slide": 1,
+          "local_slide": 1,
+          "editable_text_shapes": [
+            {
+              "shape_index": 1,
+              "name": "TextBox 86",
+              "text": "принципов эффективного управления",
+              "left": 5540281,
+              "top": 2814956,
+              "width": 8007814,
+              "height": 2123658
+            },
+            {
+              "shape_index": 2,
+              "name": "TextBox 1",
+              "text": "10",
+              "left": 294640,
+              "top": 1112983,
+              "width": 5385723,
+              "height": 4632033
+            }
+          ],
+          "pictures": []
+        },
+        {
+          "global_slide": 2,
+          "local_slide": 2,
+          "editable_text_shapes": [
+            {
+              "shape_index": 2,
+              "name": "TextBox 3",
+              "text": "WHAT DO MANAGERS PRODUCE?",
+              "left": 1011809,
+              "top": 3327146,
+              "width": 11269980,
+              "height": 707886
+            },
+            {
+              "shape_index": 3,
+              "name": "TextBox 4",
+              "text": "ЧТО ПРОИЗВОДЯТ УПРАВЛЕНЦЫ?",
+              "left": 1011809,
+              "top": 3978655,
+              "width": 11269980,
+              "height": 400110
+            }
+          ],
+          "pictures": [
+            {
+              "shape_index": 0,
+              "name": "Изображение",
+              "left": 1,
+              "top": -7831,
+              "width": 12192000,
+              "height": 6865832,
+              "pixels": [
+                2724,
+                1534
+              ],
+              "extension": "png"
+            }
+          ]
+        },
+        {
+          "global_slide": 3,
+          "local_slide": 3,
+          "editable_text_shapes": [
+            {
+              "shape_index": 2,
+              "name": "TextBox 3",
+              "text": "All decisions are always made under conditions of limited resources, information, and time.",
+              "left": 1011810,
+              "top": 4767002,
+              "width": 9927124,
+              "height": 954103
+            },
+            {
+              "shape_index": 3,
+              "name": "TextBox 4",
+              "text": "Все решения всегда принимаются в условиях дефицита ресурсов, информации и времени",
+              "left": 1011810,
+              "top": 5776550,
+              "width": 8555524,
+              "height": 584771
+            },
+            {
+              "shape_index": 4,
+              "name": "TextBox 5",
+              "text": "WHAT DO MANAGERS PRODUCE?",
+              "left": 1011809,
+              "top": 3327146,
+              "width": 11269980,
+              "height": 707886
+            },
+            {
+              "shape_index": 5,
+              "name": "TextBox 6",
+              "text": "ЧТО ПРОИЗВОДЯТ УПРАВЛЕНЦЫ?",
+              "left": 1011809,
+              "top": 3978655,
+              "width": 11269980,
+              "height": 400110
+            }
+          ],
+          "pictures": [
+            {
+              "shape_index": 0,
+              "name": "Изображение",
+              "left": 0,
+              "top": -7833,
+              "width": 12191999,
+              "height": 6865833,
+              "pixels": [
+                2724,
+                1534
+              ],
+              "extension": "png"
+            }
+          ]
+        },
+        {
+          "global_slide": 4,
+          "local_slide": 4,
+          "editable_text_shapes": [
+            {
+              "shape_index": 1,
+              "name": "TextBox 6",
+              "text": "4",
+              "left": 11650139,
+              "top": 6389959,
+              "width": 278732,
+              "height": 269237
+            },
+            {
+              "shape_index": 4,
+              "name": "TextBox 14",
+              "text": "Principle No. 1",
+              "left": 558267,
+              "top": 561921,
+              "width": 4214606,
+              "height": 461665
+            },
+            {
+              "shape_index": 5,
+              "name": "TextBox 15",
+              "text": "This is my problem.",
+              "left": 558267,
+              "top": 1688524,
+              "width": 4214606,
+              "height": 400110
+            },
+            {
+              "shape_index": 6,
+              "name": "TextBox 16",
+              "text": "Принцип №1",
+              "left": 558267,
+              "top": 1152912,
+              "width": 4214606,
+              "height": 338554
+            },
+            {
+              "shape_index": 7,
+              "name": "TextBox 17",
+              "text": "Это моя проблема",
+              "left": 609066,
+              "top": 2088634,
+              "width": 4214606,
+              "height": 276995
+            }
+          ],
+          "pictures": [
+            {
+              "shape_index": 0,
+              "name": "Изображение",
+              "left": 5892799,
+              "top": -7400,
+              "width": 6299201,
+              "height": 6865400,
+              "pixels": [
+                2678,
+                1508
+              ],
+              "extension": "png"
+            }
+          ]
+        },
+        {
+          "global_slide": 5,
+          "local_slide": 5,
+          "editable_text_shapes": [
+            {
+              "shape_index": 1,
+              "name": "TextBox 6",
+              "text": "5",
+              "left": 8463951,
+              "top": 6221732,
+              "width": 273652,
+              "height": 269237
+            },
+            {
+              "shape_index": 3,
+              "name": "TextBox 6",
+              "text": "I am responsible for:\u000bЯ отвечаю за: \nMy work\u000bСвою работу \nMy career \u000bСвою карьеру\nMy development\u000bСвоё развитие \nMy health\u000bСвоё здоровье \nMy family\u000bСвою семью",
+              "left": 609066,
+              "top": 2484233,
+              "width": 8007814,
+              "height": 3085460
+            },
+            {
+              "shape_index": 4,
+              "name": "TextBox 7",
+              "text": "I am responsible for my own life.",
+              "left": 558267,
+              "top": 5730291,
+              "width": 5000128,
+              "height": 400110
+            },
+            {
+              "shape_index": 6,
+              "name": "TextBox 9",
+              "text": "Principle No. 1",
+              "left": 558267,
+              "top": 561921,
+              "width": 4214606,
+              "height": 461665
+            },
+            {
+              "shape_index": 7,
+              "name": "TextBox 10",
+              "text": "This is my problem.",
+              "left": 558267,
+              "top": 1688524,
+              "width": 4214606,
+              "height": 400110
+            },
+            {
+              "shape_index": 8,
+              "name": "TextBox 11",
+              "text": "Принцип №1",
+              "left": 558267,
+              "top": 1152912,
+              "width": 4214606,
+              "height": 338554
+            },
+            {
+              "shape_index": 9,
+              "name": "TextBox 12",
+              "text": "Это моя проблема",
+              "left": 609066,
+              "top": 2088634,
+              "width": 4214606,
+              "height": 276995
+            },
+            {
+              "shape_index": 10,
+              "name": "TextBox 14",
+              "text": "Я отвечаю за свою жизнь",
+              "left": 609066,
+              "top": 6162390,
+              "width": 4657199,
+              "height": 276995
+            }
+          ],
+          "pictures": [
+            {
+              "shape_index": 0,
+              "name": "Изображение",
+              "left": 5875867,
+              "top": -7400,
+              "width": 6316134,
+              "height": 6865400,
+              "pixels": [
+                2678,
+                1508
+              ],
+              "extension": "png"
+            }
+          ]
+        },
+        {
+          "global_slide": 6,
+          "local_slide": 6,
+          "editable_text_shapes": [
+            {
+              "shape_index": 2,
+              "name": "Номер слайда",
+              "text": "6",
+              "left": 11650139,
+              "top": 6389959,
+              "width": 278732,
+              "height": 269237
+            },
+            {
+              "shape_index": 4,
+              "name": "TextBox 2",
+              "text": "Sergey Mikhailovich Sotnikov",
+              "left": 7229794,
+              "top": 357719,
+              "width": 3929273,
+              "height": 1754326
+            },
+            {
+              "shape_index": 5,
+              "name": "TextBox 3",
+              "text": "Сергей Михайлович Сотников",
+              "left": 7229795,
+              "top": 2203452,
+              "width": 2981006,
+              "height": 1015663
+            }
+          ],
+          "pictures": [
+            {
+              "shape_index": 0,
+              "name": "Изображение",
+              "left": 0,
+              "top": 0,
+              "width": 12192000,
+              "height": 6858000,
+              "pixels": [
+                2746,
+                1542
+              ],
+              "extension": "png"
+            }
+          ]
+        },
+        {
+          "global_slide": 7,
+          "local_slide": 7,
+          "editable_text_shapes": [
+            {
+              "shape_index": 1,
+              "name": "Номер слайда",
+              "text": "7",
+              "left": 11650139,
+              "top": 6389959,
+              "width": 278732,
+              "height": 269237
+            },
+            {
+              "shape_index": 4,
+              "name": "TextBox 3",
+              "text": "в одиночку содержал в порядке взлётно-посадочную полосу аэропорта в п. Ижма, которая не значилась ни на одной карте в течение 12 лет",
+              "left": 7249739,
+              "top": 2053668,
+              "width": 4809416,
+              "height": 1077218
+            },
+            {
+              "shape_index": 5,
+              "name": "TextBox 5",
+              "text": "7 сентября 2010 года самолёт ТУ-154 (на борту 72 пассажира и 9 членов экипажа) совершил экстренную посадку в п. Ижма. Пострадавших не было",
+              "left": 2186673,
+              "top": 4127082,
+              "width": 4809416,
+              "height": 1200329
+            },
+            {
+              "shape_index": 6,
+              "name": "TextBox 6",
+              "text": "Пусть говорят, что аэродром вроде как брошенный, но там же есть человек, который работает, значит, я в ответе, правильно? Взлётная полоса в таком тоскливом состоянии, царапает ведь ха сердце. Пойдёшь, да что-то сделаешь",
+              "left": 7368273,
+              "top": 6343810,
+              "width": 4809416,
+              "height": 1754326
+            }
+          ],
+          "pictures": [
+            {
+              "shape_index": 0,
+              "name": "Изображение",
+              "left": 3949,
+              "top": 0,
+              "width": 12188051,
+              "height": 6858000,
+              "pixels": [
+                2744,
+                1544
+              ],
+              "extension": "png"
+            },
+            {
+              "shape_index": 2,
+              "name": "Изображение",
+              "left": 7023798,
+              "top": 4310743,
+              "width": 4833257,
+              "height": 2170444,
+              "pixels": [
+                2742,
+                1542
+              ],
+              "extension": "png"
+            },
+            {
+              "shape_index": 3,
+              "name": "Рисунок 9",
+              "left": 9967442,
+              "top": 2792332,
+              "width": 136897,
+              "height": 142937,
+              "pixels": [
+                68,
+                71
+              ],
+              "extension": "png"
+            }
+          ]
+        },
+        {
+          "global_slide": 8,
+          "local_slide": 8,
+          "editable_text_shapes": [
+            {
+              "shape_index": 1,
+              "name": "TextBox 6",
+              "text": "8",
+              "left": 11650139,
+              "top": 6389959,
+              "width": 278732,
+              "height": 269237
+            },
+            {
+              "shape_index": 2,
+              "name": "TextBox 1",
+              "text": "Принцип №2",
+              "left": 552354,
+              "top": 0,
+              "width": 8007814,
+              "height": 769441
+            },
+            {
+              "shape_index": 3,
+              "name": "TextBox 2",
+              "text": "Управлять можно всем",
+              "left": 552354,
+              "top": 2798617,
+              "width": 8007814,
+              "height": 523220
+            }
+          ],
+          "pictures": [
+            {
+              "shape_index": 0,
+              "name": "Изображение",
+              "left": -5111,
+              "top": -7154,
+              "width": 12202222,
+              "height": 6872308,
+              "pixels": [
+                2674,
+                1506
+              ],
+              "extension": "png"
+            }
+          ]
+        },
+        {
+          "global_slide": 9,
+          "local_slide": 9,
+          "editable_text_shapes": [
+            {
+              "shape_index": 1,
+              "name": "TextBox 6",
+              "text": "9",
+              "left": 11650139,
+              "top": 6389959,
+              "width": 278732,
+              "height": 269237
+            }
+          ],
+          "pictures": [
+            {
+              "shape_index": 0,
+              "name": "Изображение",
+              "left": -5111,
+              "top": -7154,
+              "width": 12202222,
+              "height": 6872308,
+              "pixels": [
+                2674,
+                1506
+              ],
+              "extension": "png"
+            },
+            {
+              "shape_index": 2,
+              "name": "Изображение",
+              "left": -9665,
+              "top": 2897109,
+              "width": 4681254,
+              "height": 3762087,
+              "pixels": [
+                2676,
+                1506
+              ],
+              "extension": "png"
+            }
+          ]
+        },
+        {
+          "global_slide": 10,
+          "local_slide": 10,
+          "editable_text_shapes": [
+            {
+              "shape_index": 1,
+              "name": "TextBox 6",
+              "text": "10",
+              "left": 11650139,
+              "top": 6389959,
+              "width": 278732,
+              "height": 269237
+            }
+          ],
+          "pictures": [
+            {
+              "shape_index": 0,
+              "name": "Изображение",
+              "left": 0,
+              "top": -11892,
+              "width": 12217400,
+              "height": 6881784,
+              "pixels": [
+                2734,
+                1540
+              ],
+              "extension": "png"
+            }
+          ]
+        },
+        {
+          "global_slide": 11,
+          "local_slide": 11,
+          "editable_text_shapes": [
+            {
+              "shape_index": 1,
+              "name": "TextBox 6",
+              "text": "11",
+              "left": 11650139,
+              "top": 6389959,
+              "width": 278732,
+              "height": 269237
+            }
+          ],
+          "pictures": [
+            {
+              "shape_index": 0,
+              "name": "Изображение",
+              "left": -12700,
+              "top": -11892,
+              "width": 12217400,
+              "height": 6881784,
+              "pixels": [
+                2734,
+                1540
+              ],
+              "extension": "png"
+            }
+          ]
+        },
+        {
+          "global_slide": 12,
+          "local_slide": 12,
+          "editable_text_shapes": [
+            {
+              "shape_index": 1,
+              "name": "TextBox 6",
+              "text": "12",
+              "left": 11650139,
+              "top": 6389959,
+              "width": 278732,
+              "height": 269237
+            }
+          ],
+          "pictures": [
+            {
+              "shape_index": 0,
+              "name": "Изображение",
+              "left": -7687,
+              "top": -7151,
+              "width": 12207375,
+              "height": 6872301,
+              "pixels": [
+                2700,
+                1520
+              ],
+              "extension": "png"
+            }
+          ]
+        },
+        {
+          "global_slide": 13,
+          "local_slide": 13,
+          "editable_text_shapes": [
+            {
+              "shape_index": 1,
+              "name": "TextBox 6",
+              "text": "13",
+              "left": 11650139,
+              "top": 6389959,
+              "width": 278732,
+              "height": 269237
+            },
+            {
+              "shape_index": 3,
+              "name": "TextBox 2",
+              "text": "Все",
+              "left": 853440,
+              "top": 1769201,
+              "width": 2926080,
+              "height": 769437
+            }
+          ],
+          "pictures": [
+            {
+              "shape_index": 0,
+              "name": "Изображение",
+              "left": 0,
+              "top": -7151,
+              "width": 12207375,
+              "height": 6872301,
+              "pixels": [
+                2700,
+                1520
+              ],
+              "extension": "png"
+            }
+          ]
+        },
+        {
+          "global_slide": 14,
+          "local_slide": 14,
+          "editable_text_shapes": [
+            {
+              "shape_index": 1,
+              "name": "TextBox 6",
+              "text": "14",
+              "left": 11650139,
+              "top": 6389959,
+              "width": 278732,
+              "height": 269237
+            }
+          ],
+          "pictures": [
+            {
+              "shape_index": 0,
+              "name": "Изображение",
+              "left": -12702,
+              "top": -7144,
+              "width": 12217402,
+              "height": 6872289,
+              "pixels": [
+                2688,
+                1512
+              ],
+              "extension": "png"
+            },
+            {
+              "shape_index": 2,
+              "name": "Изображение",
+              "left": -7687,
+              "top": 307818,
+              "width": 4652115,
+              "height": 6228784,
+              "pixels": [
+                2700,
+                1520
+              ],
+              "extension": "png"
+            },
+            {
+              "shape_index": 3,
+              "name": "Изображение",
+              "left": 161924,
+              "top": 371475,
+              "width": 4400551,
+              "height": 6162675,
+              "pixels": [
+                2700,
+                1520
+              ],
+              "extension": "png"
+            }
+          ]
+        },
+        {
+          "global_slide": 15,
+          "local_slide": 15,
+          "editable_text_shapes": [
+            {
+              "shape_index": 1,
+              "name": "TextBox 6",
+              "text": "15",
+              "left": 11650139,
+              "top": 6389959,
+              "width": 278732,
+              "height": 269237
+            }
+          ],
+          "pictures": [
+            {
+              "shape_index": 0,
+              "name": "Изображение",
+              "left": -6215,
+              "top": -7153,
+              "width": 12204431,
+              "height": 6872305,
+              "pixels": [
+                2504,
+                1410
+              ],
+              "extension": "png"
+            }
+          ]
+        },
+        {
+          "global_slide": 16,
+          "local_slide": 16,
+          "editable_text_shapes": [
+            {
+              "shape_index": 1,
+              "name": "TextBox 6",
+              "text": "16",
+              "left": 11650139,
+              "top": 6389959,
+              "width": 278732,
+              "height": 269237
+            }
+          ],
+          "pictures": [
+            {
+              "shape_index": 0,
+              "name": "Изображение",
+              "left": -6215,
+              "top": -7153,
+              "width": 12204431,
+              "height": 6872305,
+              "pixels": [
+                2504,
+                1410
+              ],
+              "extension": "png"
+            },
+            {
+              "shape_index": 2,
+              "name": "Изображение",
+              "left": 676275,
+              "top": 409575,
+              "width": 3705225,
+              "height": 1552575,
+              "pixels": [
+                2504,
+                1410
+              ],
+              "extension": "png"
+            },
+            {
+              "shape_index": 3,
+              "name": "Изображение",
+              "left": 571500,
+              "top": 1752599,
+              "width": 3705225,
+              "height": 2009775,
+              "pixels": [
+                2504,
+                1408
+              ],
+              "extension": "png"
+            }
+          ]
+        },
+        {
+          "global_slide": 17,
+          "local_slide": 17,
+          "editable_text_shapes": [
+            {
+              "shape_index": 1,
+              "name": "TextBox 6",
+              "text": "17",
+              "left": 11650139,
+              "top": 6389959,
+              "width": 278732,
+              "height": 269237
+            }
+          ],
+          "pictures": [
+            {
+              "shape_index": 0,
+              "name": "Изображение",
+              "left": -6215,
+              "top": -7153,
+              "width": 12204431,
+              "height": 6872305,
+              "pixels": [
+                2504,
+                1410
+              ],
+              "extension": "png"
+            },
+            {
+              "shape_index": 3,
+              "name": "Picture 2",
+              "left": 7800610,
+              "top": 3255536,
+              "width": 3463529,
+              "height": 2877344,
+              "pixels": [
+                1325,
+                745
+              ],
+              "extension": "jpg"
+            }
+          ]
+        },
+        {
+          "global_slide": 18,
+          "local_slide": 18,
+          "editable_text_shapes": [
+            {
+              "shape_index": 1,
+              "name": "TextBox 6",
+              "text": "18",
+              "left": 11650139,
+              "top": 6389959,
+              "width": 278732,
+              "height": 269237
+            }
+          ],
+          "pictures": [
+            {
+              "shape_index": 0,
+              "name": "Изображение",
+              "left": 0,
+              "top": 0,
+              "width": 12192000,
+              "height": 6858000,
+              "pixels": [
+                2572,
+                1448
+              ],
+              "extension": "png"
+            }
+          ]
+        },
+        {
+          "global_slide": 19,
+          "local_slide": 19,
+          "editable_text_shapes": [
+            {
+              "shape_index": 1,
+              "name": "TextBox 6",
+              "text": "19",
+              "left": 11650139,
+              "top": 6389959,
+              "width": 278732,
+              "height": 269237
+            }
+          ],
+          "pictures": [
+            {
+              "shape_index": 0,
+              "name": "Изображение",
+              "left": 0,
+              "top": -1,
+              "width": 12192000,
+              "height": 6858001,
+              "pixels": [
+                2570,
+                1450
+              ],
+              "extension": "png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "file": "p2.pptx",
+      "slide_width": 12192000,
+      "slide_height": 6858000,
+      "slide_count": 20,
+      "slides": [
+        {
+          "global_slide": 20,
+          "local_slide": 1,
+          "editable_text_shapes": [
+            {
+              "shape_index": 1,
+              "name": "TextBox 6",
+              "text": "1",
+              "left": 11650139,
+              "top": 6389959,
+              "width": 278732,
+              "height": 269237
+            }
+          ],
+          "pictures": [
+            {
+              "shape_index": 0,
+              "name": "Изображение",
+              "left": -4189,
+              "top": -7155,
+              "width": 12200378,
+              "height": 6872309,
+              "pixels": [
+                2702,
+                1522
+              ],
+              "extension": "png"
+            }
+          ]
+        },
+        {
+          "global_slide": 21,
+          "local_slide": 2,
+          "editable_text_shapes": [
+            {
+              "shape_index": 1,
+              "name": "TextBox 6",
+              "text": "2",
+              "left": 11650139,
+              "top": 6389959,
+              "width": 278732,
+              "height": 269237
+            }
+          ],
+          "pictures": [
+            {
+              "shape_index": 0,
+              "name": "Изображение",
+              "left": -4189,
+              "top": -7155,
+              "width": 12200378,
+              "height": 6872309,
+              "pixels": [
+                2702,
+                1522
+              ],
+              "extension": "png"
+            }
+          ]
+        },
+        {
+          "global_slide": 22,
+          "local_slide": 3,
+          "editable_text_shapes": [
+            {
+              "shape_index": 1,
+              "name": "TextBox 6",
+              "text": "3",
+              "left": 11650139,
+              "top": 6389959,
+              "width": 278732,
+              "height": 269237
+            }
+          ],
+          "pictures": [
+            {
+              "shape_index": 0,
+              "name": "Изображение",
+              "left": 6675,
+              "top": -3393,
+              "width": 12192002,
+              "height": 6864786,
+              "pixels": [
+                2696,
+                1518
+              ],
+              "extension": "png"
+            }
+          ]
+        },
+        {
+          "global_slide": 23,
+          "local_slide": 4,
+          "editable_text_shapes": [],
+          "pictures": [
+            {
+              "shape_index": 0,
+              "name": "Рисунок 1",
+              "left": 0,
+              "top": 0,
+              "width": 5542640,
+              "height": 6857973,
+              "pixels": [
+                600,
+                638
+              ],
+              "extension": "jpg"
+            }
+          ]
+        },
+        {
+          "global_slide": 24,
+          "local_slide": 5,
+          "editable_text_shapes": [
+            {
+              "shape_index": 1,
+              "name": "Нурмагомед…",
+              "text": "Хвалить в \n10 \nраз больше, чем ругать",
+              "left": 5844584,
+              "top": 2490269,
+              "width": 5697332,
+              "height": 1877433
+            }
+          ],
+          "pictures": [
+            {
+              "shape_index": 2,
+              "name": "Рисунок 1",
+              "left": 0,
+              "top": 0,
+              "width": 5542640,
+              "height": 6857973,
+              "pixels": [
+                600,
+                638
+              ],
+              "extension": "jpg"
+            }
+          ]
+        },
+        {
+          "global_slide": 25,
+          "local_slide": 6,
+          "editable_text_shapes": [],
+          "pictures": [
+            {
+              "shape_index": 0,
+              "name": "Picture 6",
+              "left": 847349,
+              "top": 800748,
+              "width": 4923674,
+              "height": 5834049,
+              "pixels": [
+                355,
+                424
+              ],
+              "extension": "png"
+            }
+          ]
+        },
+        {
+          "global_slide": 26,
+          "local_slide": 7,
+          "editable_text_shapes": [],
+          "pictures": [
+            {
+              "shape_index": 0,
+              "name": "Picture 7",
+              "left": 6096000,
+              "top": 800747,
+              "width": 5264174,
+              "height": 5834050,
+              "pixels": [
+                395,
+                424
+              ],
+              "extension": "png"
+            },
+            {
+              "shape_index": 1,
+              "name": "Picture 6",
+              "left": 847349,
+              "top": 800748,
+              "width": 4923674,
+              "height": 5834049,
+              "pixels": [
+                355,
+                424
+              ],
+              "extension": "png"
+            }
+          ]
+        },
+        {
+          "global_slide": 27,
+          "local_slide": 8,
+          "editable_text_shapes": [
+            {
+              "shape_index": 1,
+              "name": "TextBox 6",
+              "text": "8",
+              "left": 11650139,
+              "top": 6389959,
+              "width": 278732,
+              "height": 269237
+            }
+          ],
+          "pictures": [
+            {
+              "shape_index": 0,
+              "name": "Изображение",
+              "left": -4189,
+              "top": -7155,
+              "width": 12200378,
+              "height": 6872309,
+              "pixels": [
+                2702,
+                1522
+              ],
+              "extension": "png"
+            }
+          ]
+        },
+        {
+          "global_slide": 28,
+          "local_slide": 9,
+          "editable_text_shapes": [
+            {
+              "shape_index": 1,
+              "name": "TextBox 6",
+              "text": "9",
+              "left": 11650139,
+              "top": 6389959,
+              "width": 278732,
+              "height": 269237
+            }
+          ],
+          "pictures": [
+            {
+              "shape_index": 0,
+              "name": "Изображение",
+              "left": -4189,
+              "top": -7155,
+              "width": 12200378,
+              "height": 6872309,
+              "pixels": [
+                2702,
+                1522
+              ],
+              "extension": "png"
+            }
+          ]
+        },
+        {
+          "global_slide": 29,
+          "local_slide": 10,
+          "editable_text_shapes": [
+            {
+              "shape_index": 1,
+              "name": "TextBox 6",
+              "text": "10",
+              "left": 11650139,
+              "top": 6389959,
+              "width": 278732,
+              "height": 269237
+            }
+          ],
+          "pictures": [
+            {
+              "shape_index": 0,
+              "name": "Изображение",
+              "left": -4189,
+              "top": -7155,
+              "width": 12200378,
+              "height": 6872309,
+              "pixels": [
+                2702,
+                1522
+              ],
+              "extension": "png"
+            }
+          ]
+        },
+        {
+          "global_slide": 30,
+          "local_slide": 11,
+          "editable_text_shapes": [],
+          "pictures": []
+        },
+        {
+          "global_slide": 31,
+          "local_slide": 12,
+          "editable_text_shapes": [
+            {
+              "shape_index": 0,
+              "name": "TextBox 6",
+              "text": "12",
+              "left": 11650139,
+              "top": 6389959,
+              "width": 278732,
+              "height": 269237
+            }
+          ],
+          "pictures": [
+            {
+              "shape_index": 1,
+              "name": "Изображение",
+              "left": -4188,
+              "top": 2651760,
+              "width": 6123670,
+              "height": 4206240,
+              "pixels": [
+                2702,
+                1522
+              ],
+              "extension": "png"
+            },
+            {
+              "shape_index": 2,
+              "name": "Изображение",
+              "left": 6208536,
+              "top": 2651760,
+              "width": 5983464,
+              "height": 4206240,
+              "pixels": [
+                2702,
+                1522
+              ],
+              "extension": "png"
+            },
+            {
+              "shape_index": 3,
+              "name": "Рисунок 5",
+              "left": -1,
+              "top": 272776,
+              "width": 12192000,
+              "height": 1922558,
+              "pixels": [
+                2002,
+                329
+              ],
+              "extension": "png"
+            }
+          ]
+        },
+        {
+          "global_slide": 32,
+          "local_slide": 13,
+          "editable_text_shapes": [
+            {
+              "shape_index": 1,
+              "name": "TextBox 6",
+              "text": "13",
+              "left": 11650139,
+              "top": 6389959,
+              "width": 278732,
+              "height": 269237
+            }
+          ],
+          "pictures": [
+            {
+              "shape_index": 0,
+              "name": "Изображение",
+              "left": 4012,
+              "top": -12073,
+              "width": 12192001,
+              "height": 6882146,
+              "pixels": [
+                2714,
+                1532
+              ],
+              "extension": "png"
+            }
+          ]
+        },
+        {
+          "global_slide": 33,
+          "local_slide": 14,
+          "editable_text_shapes": [
+            {
+              "shape_index": 1,
+              "name": "TextBox 6",
+              "text": "14",
+              "left": 11650139,
+              "top": 6389959,
+              "width": 278732,
+              "height": 269237
+            },
+            {
+              "shape_index": 2,
+              "name": "TextBox 1",
+              "text": "7",
+              "left": 3554581,
+              "top": 724847,
+              "width": 369651,
+              "height": 707882
+            }
+          ],
+          "pictures": [
+            {
+              "shape_index": 0,
+              "name": "Изображение",
+              "left": 0,
+              "top": -4797,
+              "width": 12192001,
+              "height": 6867593,
+              "pixels": [
+                2702,
+                1522
+              ],
+              "extension": "png"
+            }
+          ]
+        },
+        {
+          "global_slide": 34,
+          "local_slide": 15,
+          "editable_text_shapes": [
+            {
+              "shape_index": 1,
+              "name": "TextBox 6",
+              "text": "15",
+              "left": 11650139,
+              "top": 6389959,
+              "width": 278732,
+              "height": 269237
+            },
+            {
+              "shape_index": 2,
+              "name": "TextBox 1",
+              "text": "7",
+              "left": 3554581,
+              "top": 724847,
+              "width": 369651,
+              "height": 707882
+            }
+          ],
+          "pictures": [
+            {
+              "shape_index": 0,
+              "name": "Изображение",
+              "left": -2527,
+              "top": 1419,
+              "width": 12194528,
+              "height": 6856582,
+              "pixels": [
+                2682,
+                1508
+              ],
+              "extension": "png"
+            }
+          ]
+        },
+        {
+          "global_slide": 35,
+          "local_slide": 16,
+          "editable_text_shapes": [
+            {
+              "shape_index": 1,
+              "name": "TextBox 6",
+              "text": "16",
+              "left": 11650139,
+              "top": 6389959,
+              "width": 278732,
+              "height": 269237
+            },
+            {
+              "shape_index": 2,
+              "name": "TextBox 1",
+              "text": "8",
+              "left": 3554581,
+              "top": 724847,
+              "width": 369651,
+              "height": 707882
+            }
+          ],
+          "pictures": [
+            {
+              "shape_index": 0,
+              "name": "Изображение",
+              "left": -6215,
+              "top": -7153,
+              "width": 12204431,
+              "height": 6872305,
+              "pixels": [
+                2504,
+                1410
+              ],
+              "extension": "png"
+            }
+          ]
+        },
+        {
+          "global_slide": 36,
+          "local_slide": 17,
+          "editable_text_shapes": [
+            {
+              "shape_index": 1,
+              "name": "TextBox 6",
+              "text": "17",
+              "left": 11650139,
+              "top": 6389959,
+              "width": 278732,
+              "height": 269237
+            },
+            {
+              "shape_index": 2,
+              "name": "TextBox 1",
+              "text": "8",
+              "left": 3554581,
+              "top": 724847,
+              "width": 369651,
+              "height": 707882
+            }
+          ],
+          "pictures": [
+            {
+              "shape_index": 0,
+              "name": "Изображение",
+              "left": -6540,
+              "top": -14332,
+              "width": 12205080,
+              "height": 6886665,
+              "pixels": [
+                2506,
+                1414
+              ],
+              "extension": "png"
+            }
+          ]
+        },
+        {
+          "global_slide": 37,
+          "local_slide": 18,
+          "editable_text_shapes": [
+            {
+              "shape_index": 1,
+              "name": "TextBox 6",
+              "text": "18",
+              "left": 11650139,
+              "top": 6389959,
+              "width": 278732,
+              "height": 269237
+            }
+          ],
+          "pictures": [
+            {
+              "shape_index": 0,
+              "name": "Изображение",
+              "left": 0,
+              "top": 559,
+              "width": 12192000,
+              "height": 6856882,
+              "pixels": [
+                2724,
+                1532
+              ],
+              "extension": "png"
+            },
+            {
+              "shape_index": 2,
+              "name": "Изображение",
+              "left": 6467475,
+              "top": 4257675,
+              "width": 5600700,
+              "height": 2401521,
+              "pixels": [
+                2722,
+                1532
+              ],
+              "extension": "png"
+            }
+          ]
+        },
+        {
+          "global_slide": 38,
+          "local_slide": 19,
+          "editable_text_shapes": [
+            {
+              "shape_index": 1,
+              "name": "TextBox 6",
+              "text": "19",
+              "left": 11650139,
+              "top": 6389959,
+              "width": 278732,
+              "height": 269237
+            }
+          ],
+          "pictures": [
+            {
+              "shape_index": 0,
+              "name": "Изображение",
+              "left": 0,
+              "top": 559,
+              "width": 12192000,
+              "height": 6856882,
+              "pixels": [
+                2724,
+                1532
+              ],
+              "extension": "png"
+            }
+          ]
+        },
+        {
+          "global_slide": 39,
+          "local_slide": 20,
+          "editable_text_shapes": [
+            {
+              "shape_index": 1,
+              "name": "TextBox 6",
+              "text": "20",
+              "left": 11650139,
+              "top": 6389959,
+              "width": 278732,
+              "height": 269237
+            }
+          ],
+          "pictures": [
+            {
+              "shape_index": 0,
+              "name": "Изображение",
+              "left": -10418,
+              "top": -5871,
+              "width": 12192001,
+              "height": 6869742,
+              "pixels": [
+                2726,
+                1536
+              ],
+              "extension": "png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "file": "p3.pptx",
+      "slide_width": 12192000,
+      "slide_height": 6858000,
+      "slide_count": 23,
+      "slides": [
+        {
+          "global_slide": 40,
+          "local_slide": 1,
+          "editable_text_shapes": [
+            {
+              "shape_index": 1,
+              "name": "TextBox 6",
+              "text": "1",
+              "left": 11650139,
+              "top": 6389959,
+              "width": 278732,
+              "height": 269237
+            }
+          ],
+          "pictures": [
+            {
+              "shape_index": 0,
+              "name": "Изображение",
+              "left": -10418,
+              "top": -5871,
+              "width": 12192001,
+              "height": 6869742,
+              "pixels": [
+                2726,
+                1536
+              ],
+              "extension": "png"
+            },
+            {
+              "shape_index": 2,
+              "name": "Изображение",
+              "left": 2797522,
+              "top": 3503691,
+              "width": 2534970,
+              "height": 3023858,
+              "pixels": [
+                2682,
+                1512
+              ],
+              "extension": "png"
+            },
+            {
+              "shape_index": 3,
+              "name": "Изображение",
+              "left": 6174463,
+              "top": 198804,
+              "width": 5848539,
+              "height": 6555082,
+              "pixels": [
+                2682,
+                1512
+              ],
+              "extension": "png"
+            }
+          ]
+        },
+        {
+          "global_slide": 41,
+          "local_slide": 2,
+          "editable_text_shapes": [
+            {
+              "shape_index": 1,
+              "name": "TextBox 6",
+              "text": "2",
+              "left": 11650139,
+              "top": 6389959,
+              "width": 278732,
+              "height": 269237
+            }
+          ],
+          "pictures": [
+            {
+              "shape_index": 0,
+              "name": "Изображение",
+              "left": 721360,
+              "top": 580283,
+              "width": 10759440,
+              "height": 6284871,
+              "pixels": [
+                2702,
+                1522
+              ],
+              "extension": "png"
+            }
+          ]
+        },
+        {
+          "global_slide": 42,
+          "local_slide": 3,
+          "editable_text_shapes": [],
+          "pictures": [
+            {
+              "shape_index": 1,
+              "name": "Рисунок 3",
+              "left": -472257,
+              "top": -6415398,
+              "width": 6679098,
+              "height": 3756994,
+              "pixels": [
+                5334,
+                3000
+              ],
+              "extension": "png"
+            }
+          ]
+        },
+        {
+          "global_slide": 43,
+          "local_slide": 4,
+          "editable_text_shapes": [
+            {
+              "shape_index": 1,
+              "name": "TextBox 6",
+              "text": "4",
+              "left": 11650139,
+              "top": 6389959,
+              "width": 278732,
+              "height": 269237
+            }
+          ],
+          "pictures": [
+            {
+              "shape_index": 0,
+              "name": "Изображение",
+              "left": -12702,
+              "top": -5722,
+              "width": 12217402,
+              "height": 6869443,
+              "pixels": [
+                2682,
+                1508
+              ],
+              "extension": "png"
+            }
+          ]
+        },
+        {
+          "global_slide": 44,
+          "local_slide": 5,
+          "editable_text_shapes": [],
+          "pictures": []
+        },
+        {
+          "global_slide": 45,
+          "local_slide": 6,
+          "editable_text_shapes": [
+            {
+              "shape_index": 1,
+              "name": "TextBox 6",
+              "text": "6",
+              "left": 11650139,
+              "top": 6389959,
+              "width": 278732,
+              "height": 269237
+            }
+          ],
+          "pictures": [
+            {
+              "shape_index": 0,
+              "name": "Изображение",
+              "left": 0,
+              "top": 1104,
+              "width": 12192000,
+              "height": 6855792,
+              "pixels": [
+                2760,
+                1552
+              ],
+              "extension": "png"
+            },
+            {
+              "shape_index": 2,
+              "name": "Изображение",
+              "left": 263128,
+              "top": 1634247,
+              "width": 3871127,
+              "height": 4854102,
+              "pixels": [
+                2758,
+                1552
+              ],
+              "extension": "png"
+            }
+          ]
+        },
+        {
+          "global_slide": 46,
+          "local_slide": 7,
+          "editable_text_shapes": [
+            {
+              "shape_index": 1,
+              "name": "TextBox 6",
+              "text": "7",
+              "left": 11650139,
+              "top": 6389959,
+              "width": 278732,
+              "height": 269237
+            }
+          ],
+          "pictures": [
+            {
+              "shape_index": 0,
+              "name": "Изображение",
+              "left": -10246,
+              "top": -7147,
+              "width": 12212492,
+              "height": 6872294,
+              "pixels": [
+                2758,
+                1552
+              ],
+              "extension": "png"
+            }
+          ]
+        },
+        {
+          "global_slide": 47,
+          "local_slide": 8,
+          "editable_text_shapes": [
+            {
+              "shape_index": 4,
+              "name": "TextBox 6",
+              "text": "8",
+              "left": 11650139,
+              "top": 6389959,
+              "width": 278732,
+              "height": 269237
+            }
+          ],
+          "pictures": [
+            {
+              "shape_index": 0,
+              "name": "Изображение",
+              "left": 0,
+              "top": 6078,
+              "width": 12192000,
+              "height": 6851922,
+              "pixels": [
+                2758,
+                1550
+              ],
+              "extension": "png"
+            },
+            {
+              "shape_index": 1,
+              "name": "Изображение",
+              "left": 263128,
+              "top": 1634247,
+              "width": 3871127,
+              "height": 4854102,
+              "pixels": [
+                2758,
+                1552
+              ],
+              "extension": "png"
+            },
+            {
+              "shape_index": 2,
+              "name": "Изображение",
+              "left": 8307421,
+              "top": 1634247,
+              "width": 3715966,
+              "height": 4854102,
+              "pixels": [
+                2758,
+                1552
+              ],
+              "extension": "png"
+            },
+            {
+              "shape_index": 3,
+              "name": "Изображение",
+              "left": 8238527,
+              "top": 354561,
+              "width": 3114392,
+              "height": 1394234,
+              "pixels": [
+                2758,
+                1550
+              ],
+              "extension": "png"
+            }
+          ]
+        },
+        {
+          "global_slide": 48,
+          "local_slide": 9,
+          "editable_text_shapes": [
+            {
+              "shape_index": 1,
+              "name": "TextBox 6",
+              "text": "9",
+              "left": 11650139,
+              "top": 6389959,
+              "width": 278732,
+              "height": 269237
+            }
+          ],
+          "pictures": [
+            {
+              "shape_index": 0,
+              "name": "Изображение",
+              "left": -144849,
+              "top": -465078,
+              "width": 12997249,
+              "height": 7323078,
+              "pixels": [
+                2680,
+                1510
+              ],
+              "extension": "png"
+            }
+          ]
+        },
+        {
+          "global_slide": 49,
+          "local_slide": 10,
+          "editable_text_shapes": [
+            {
+              "shape_index": 1,
+              "name": "TextBox 6",
+              "text": "10",
+              "left": 11650139,
+              "top": 6389959,
+              "width": 278732,
+              "height": 269237
+            }
+          ],
+          "pictures": [
+            {
+              "shape_index": 0,
+              "name": "Изображение",
+              "left": -8423,
+              "top": 4731,
+              "width": 12208846,
+              "height": 6858001,
+              "pixels": [
+                2738,
+                1538
+              ],
+              "extension": "png"
+            }
+          ]
+        },
+        {
+          "global_slide": 50,
+          "local_slide": 11,
+          "editable_text_shapes": [
+            {
+              "shape_index": 1,
+              "name": "TextBox 6",
+              "text": "11",
+              "left": 11650139,
+              "top": 6389959,
+              "width": 278732,
+              "height": 269237
+            }
+          ],
+          "pictures": [
+            {
+              "shape_index": 0,
+              "name": "Изображение",
+              "left": -8423,
+              "top": 4731,
+              "width": 12208846,
+              "height": 6858001,
+              "pixels": [
+                2738,
+                1538
+              ],
+              "extension": "png"
+            },
+            {
+              "shape_index": 2,
+              "name": "Изображение",
+              "left": 323850,
+              "top": 3933824,
+              "width": 5457825,
+              "height": 2000251,
+              "pixels": [
+                2740,
+                1540
+              ],
+              "extension": "png"
+            }
+          ]
+        },
+        {
+          "global_slide": 51,
+          "local_slide": 12,
+          "editable_text_shapes": [
+            {
+              "shape_index": 7,
+              "name": "Впервые стартовал в 1983 году…",
+              "text": "Самый сложный и длинный марафон в мире\nВпервые стартовал в 1983 году",
+              "left": 4747448,
+              "top": 996881,
+              "width": 6914651,
+              "height": 723275
+            },
+            {
+              "shape_index": 8,
+              "name": "Самый сложный и длинный марафон в мире…",
+              "text": "Дистанция 864 км\nПродолжительность 5 дней",
+              "left": 4747448,
+              "top": 1678113,
+              "width": 4470539,
+              "height": 834074
+            },
+            {
+              "shape_index": 9,
+              "name": "Нурмагомед…",
+              "text": "Сверхмарафон Сидней — Мельбурн",
+              "left": 4737078,
+              "top": 311226,
+              "width": 7454922,
+              "height": 486283
+            }
+          ],
+          "pictures": [
+            {
+              "shape_index": 0,
+              "name": "Picture 2",
+              "left": -12785,
+              "top": 0,
+              "width": 4945276,
+              "height": 6858000,
+              "pixels": [
+                3714,
+                2476
+              ],
+              "extension": "jpg"
+            }
+          ]
+        },
+        {
+          "global_slide": 52,
+          "local_slide": 13,
+          "editable_text_shapes": [
+            {
+              "shape_index": 7,
+              "name": "Впервые стартовал в 1983 году…",
+              "text": "Самый сложный и длинный марафон в мире\nВпервые стартовал в 1983 году",
+              "left": 4747448,
+              "top": 996881,
+              "width": 6914651,
+              "height": 723275
+            },
+            {
+              "shape_index": 8,
+              "name": "Самый сложный и длинный марафон в мире…",
+              "text": "Дистанция 864 км\nПродолжительность 5 дней",
+              "left": 4747448,
+              "top": 1678113,
+              "width": 4470539,
+              "height": 834074
+            },
+            {
+              "shape_index": 9,
+              "name": "Нурмагомед…",
+              "text": "Сверхмарафон Сидней — Мельбурн",
+              "left": 4737078,
+              "top": 311226,
+              "width": 7454922,
+              "height": 486283
+            },
+            {
+              "shape_index": 10,
+              "name": "TextBox 8",
+              "text": "Австралийский фермер никогда не принимавший участие \u000bв соревнованиях по бегу\nВ возрасте 61 год заявился на первый \u000bмарафон без предварительной \u000bспециальной подготовки  \u000bи профессиональной униформы",
+              "left": 4747448,
+              "top": 3320115,
+              "width": 5590352,
+              "height": 1723545
+            },
+            {
+              "shape_index": 12,
+              "name": "Нурмагомед…",
+              "text": "Клифф Янг",
+              "left": 4918522,
+              "top": 2868293,
+              "width": 2304473,
+              "height": 486283
+            }
+          ],
+          "pictures": [
+            {
+              "shape_index": 0,
+              "name": "Picture 2",
+              "left": -12785,
+              "top": 0,
+              "width": 4945276,
+              "height": 6858000,
+              "pixels": [
+                3714,
+                2476
+              ],
+              "extension": "jpg"
+            },
+            {
+              "shape_index": 13,
+              "name": "Изображение",
+              "left": 8990690,
+              "top": 2434797,
+              "width": 3731363,
+              "height": 4738163,
+              "pixels": [
+                1317,
+                1673
+              ],
+              "extension": "png"
+            }
+          ]
+        },
+        {
+          "global_slide": 53,
+          "local_slide": 14,
+          "editable_text_shapes": [
+            {
+              "shape_index": 7,
+              "name": "Впервые стартовал в 1983 году…",
+              "text": "Самый сложный и длинный марафон в мире\nВпервые стартовал в 1983 году",
+              "left": 4747448,
+              "top": 996881,
+              "width": 6914651,
+              "height": 723275
+            },
+            {
+              "shape_index": 8,
+              "name": "Самый сложный и длинный марафон в мире…",
+              "text": "Дистанция 864 км\nПродолжительность 5 дней",
+              "left": 4747448,
+              "top": 1678113,
+              "width": 4470539,
+              "height": 834074
+            },
+            {
+              "shape_index": 9,
+              "name": "Нурмагомед…",
+              "text": "Сверхмарафон Сидней — Мельбурн",
+              "left": 4737078,
+              "top": 311226,
+              "width": 7454922,
+              "height": 486283
+            },
+            {
+              "shape_index": 10,
+              "name": "TextBox 8",
+              "text": "Австралийский фермер никогда не принимавший участие \u000bв соревнованиях по бегу\nВ возрасте 61 год заявился на первый \u000bмарафон без предварительной \u000bспециальной подготовки  \u000bи профессиональной униформы",
+              "left": 4747448,
+              "top": 3320115,
+              "width": 5590352,
+              "height": 1723545
+            },
+            {
+              "shape_index": 12,
+              "name": "Нурмагомед…",
+              "text": "Клифф Янг",
+              "left": 4918522,
+              "top": 2868293,
+              "width": 2304473,
+              "height": 486283
+            },
+            {
+              "shape_index": 16,
+              "name": "TextBox 1",
+              "text": "«Я просто не знал, что во время забега можно спать»",
+              "left": 5957570,
+              "top": 5598784,
+              "width": 2919932,
+              "height": 1015659
+            }
+          ],
+          "pictures": [
+            {
+              "shape_index": 0,
+              "name": "Picture 2",
+              "left": -12785,
+              "top": 0,
+              "width": 4945276,
+              "height": 6858000,
+              "pixels": [
+                3714,
+                2476
+              ],
+              "extension": "jpg"
+            },
+            {
+              "shape_index": 13,
+              "name": "Изображение",
+              "left": 8990690,
+              "top": 2434797,
+              "width": 3731363,
+              "height": 4738163,
+              "pixels": [
+                1317,
+                1673
+              ],
+              "extension": "png"
+            }
+          ]
+        },
+        {
+          "global_slide": 54,
+          "local_slide": 15,
+          "editable_text_shapes": [
+            {
+              "shape_index": 1,
+              "name": "TextBox 6",
+              "text": "15",
+              "left": 11650139,
+              "top": 6389959,
+              "width": 278732,
+              "height": 269237
+            }
+          ],
+          "pictures": [
+            {
+              "shape_index": 0,
+              "name": "Изображение",
+              "left": -4189,
+              "top": -7155,
+              "width": 12200378,
+              "height": 6872309,
+              "pixels": [
+                2702,
+                1522
+              ],
+              "extension": "png"
+            }
+          ]
+        },
+        {
+          "global_slide": 55,
+          "local_slide": 16,
+          "editable_text_shapes": [
+            {
+              "shape_index": 1,
+              "name": "TextBox 6",
+              "text": "16",
+              "left": 11650139,
+              "top": 6389959,
+              "width": 278732,
+              "height": 269237
+            }
+          ],
+          "pictures": [
+            {
+              "shape_index": 0,
+              "name": "Изображение",
+              "left": -4189,
+              "top": -7155,
+              "width": 12200378,
+              "height": 6872309,
+              "pixels": [
+                2702,
+                1522
+              ],
+              "extension": "png"
+            }
+          ]
+        },
+        {
+          "global_slide": 56,
+          "local_slide": 17,
+          "editable_text_shapes": [
+            {
+              "shape_index": 1,
+              "name": "TextBox 6",
+              "text": "17",
+              "left": 11650139,
+              "top": 6389959,
+              "width": 278732,
+              "height": 269237
+            }
+          ],
+          "pictures": [
+            {
+              "shape_index": 0,
+              "name": "Изображение",
+              "left": -4189,
+              "top": -7155,
+              "width": 12200378,
+              "height": 6872309,
+              "pixels": [
+                2702,
+                1522
+              ],
+              "extension": "png"
+            }
+          ]
+        },
+        {
+          "global_slide": 57,
+          "local_slide": 18,
+          "editable_text_shapes": [
+            {
+              "shape_index": 1,
+              "name": "TextBox 6",
+              "text": "18",
+              "left": 11650139,
+              "top": 6389959,
+              "width": 278732,
+              "height": 269237
+            }
+          ],
+          "pictures": [
+            {
+              "shape_index": 0,
+              "name": "Изображение",
+              "left": -8138,
+              "top": 0,
+              "width": 12204700,
+              "height": 6859166,
+              "pixels": [
+                2682,
+                1506
+              ],
+              "extension": "png"
+            },
+            {
+              "shape_index": 2,
+              "name": "Изображение",
+              "left": 3336587,
+              "top": 2130357,
+              "width": 6381345,
+              "height": 1770434,
+              "pixels": [
+                2680,
+                1508
+              ],
+              "extension": "png"
+            },
+            {
+              "shape_index": 3,
+              "name": "Изображение",
+              "left": 3336588,
+              "top": 2130357,
+              "width": 4977463,
+              "height": 1412943,
+              "pixels": [
+                2680,
+                1508
+              ],
+              "extension": "png"
+            },
+            {
+              "shape_index": 4,
+              "name": "Изображение",
+              "left": 8365055,
+              "top": 2586188,
+              "width": 2831881,
+              "height": 1770434,
+              "pixels": [
+                2682,
+                1506
+              ],
+              "extension": "png"
+            },
+            {
+              "shape_index": 5,
+              "name": "Изображение",
+              "left": 8279251,
+              "top": 2180302,
+              "width": 414096,
+              "height": 1347571,
+              "pixels": [
+                2680,
+                1508
+              ],
+              "extension": "png"
+            }
+          ]
+        },
+        {
+          "global_slide": 58,
+          "local_slide": 19,
+          "editable_text_shapes": [
+            {
+              "shape_index": 1,
+              "name": "TextBox 6",
+              "text": "19",
+              "left": 11650139,
+              "top": 6389959,
+              "width": 278732,
+              "height": 269237
+            }
+          ],
+          "pictures": [
+            {
+              "shape_index": 0,
+              "name": "Изображение",
+              "left": -8138,
+              "top": 0,
+              "width": 12204700,
+              "height": 6859166,
+              "pixels": [
+                2682,
+                1506
+              ],
+              "extension": "png"
+            },
+            {
+              "shape_index": 2,
+              "name": "Изображение",
+              "left": 3336587,
+              "top": 2130357,
+              "width": 6381345,
+              "height": 1770434,
+              "pixels": [
+                2680,
+                1508
+              ],
+              "extension": "png"
+            }
+          ]
+        },
+        {
+          "global_slide": 59,
+          "local_slide": 20,
+          "editable_text_shapes": [
+            {
+              "shape_index": 1,
+              "name": "TextBox 6",
+              "text": "20",
+              "left": 11650139,
+              "top": 6389959,
+              "width": 278732,
+              "height": 269237
+            }
+          ],
+          "pictures": [
+            {
+              "shape_index": 0,
+              "name": "Изображение",
+              "left": -8138,
+              "top": 0,
+              "width": 12204700,
+              "height": 6859166,
+              "pixels": [
+                2682,
+                1506
+              ],
+              "extension": "png"
+            },
+            {
+              "shape_index": 2,
+              "name": "Изображение",
+              "left": 3336587,
+              "top": 2130357,
+              "width": 6381345,
+              "height": 1770434,
+              "pixels": [
+                2680,
+                1508
+              ],
+              "extension": "png"
+            },
+            {
+              "shape_index": 3,
+              "name": "Изображение",
+              "left": 3380195,
+              "top": 3703585,
+              "width": 5428034,
+              "height": 1974715,
+              "pixels": [
+                2680,
+                1506
+              ],
+              "extension": "png"
+            }
+          ]
+        },
+        {
+          "global_slide": 60,
+          "local_slide": 21,
+          "editable_text_shapes": [
+            {
+              "shape_index": 1,
+              "name": "TextBox 6",
+              "text": "21",
+              "left": 11650139,
+              "top": 6389959,
+              "width": 278732,
+              "height": 269237
+            }
+          ],
+          "pictures": [
+            {
+              "shape_index": 0,
+              "name": "Изображение",
+              "left": -8138,
+              "top": 0,
+              "width": 12204700,
+              "height": 6859166,
+              "pixels": [
+                2682,
+                1506
+              ],
+              "extension": "png"
+            },
+            {
+              "shape_index": 2,
+              "name": "Изображение",
+              "left": 3336587,
+              "top": 2130357,
+              "width": 6381345,
+              "height": 1770434,
+              "pixels": [
+                2680,
+                1508
+              ],
+              "extension": "png"
+            },
+            {
+              "shape_index": 3,
+              "name": "Изображение",
+              "left": 3375498,
+              "top": 3745149,
+              "width": 5428034,
+              "height": 1974715,
+              "pixels": [
+                2680,
+                1506
+              ],
+              "extension": "png"
+            },
+            {
+              "shape_index": 4,
+              "name": "Изображение",
+              "left": 8706254,
+              "top": 4143983,
+              "width": 3142035,
+              "height": 1546698,
+              "pixels": [
+                2692,
+                1506
+              ],
+              "extension": "png"
+            }
+          ]
+        },
+        {
+          "global_slide": 61,
+          "local_slide": 22,
+          "editable_text_shapes": [
+            {
+              "shape_index": 1,
+              "name": "TextBox 6",
+              "text": "22",
+              "left": 11650139,
+              "top": 6389959,
+              "width": 278732,
+              "height": 269237
+            },
+            {
+              "shape_index": 7,
+              "name": "Скругленный прямоугольник 6",
+              "text": "Крысы стали ожидать, что в итоге их спасут. И использовали каждую каплю энергии, чтобы отодвинуть гибель",
+              "left": 1948003,
+              "top": 5790311,
+              "width": 8573512,
+              "height": 733837
+            }
+          ],
+          "pictures": [
+            {
+              "shape_index": 0,
+              "name": "Изображение",
+              "left": -6350,
+              "top": 10674,
+              "width": 12204700,
+              "height": 6859166,
+              "pixels": [
+                2682,
+                1506
+              ],
+              "extension": "png"
+            },
+            {
+              "shape_index": 2,
+              "name": "Изображение",
+              "left": 3336587,
+              "top": 2130357,
+              "width": 6381345,
+              "height": 1770434,
+              "pixels": [
+                2680,
+                1508
+              ],
+              "extension": "png"
+            },
+            {
+              "shape_index": 3,
+              "name": "Изображение",
+              "left": 3375498,
+              "top": 3745149,
+              "width": 5428034,
+              "height": 1974715,
+              "pixels": [
+                2680,
+                1506
+              ],
+              "extension": "png"
+            },
+            {
+              "shape_index": 4,
+              "name": "Изображение",
+              "left": 8706254,
+              "top": 4143983,
+              "width": 3142035,
+              "height": 1546698,
+              "pixels": [
+                2692,
+                1506
+              ],
+              "extension": "png"
+            },
+            {
+              "shape_index": 5,
+              "name": "Изображение",
+              "left": 1498363,
+              "top": 5592197,
+              "width": 9195274,
+              "height": 1130067,
+              "pixels": [
+                2682,
+                1508
+              ],
+              "extension": "png"
+            }
+          ]
+        },
+        {
+          "global_slide": 62,
+          "local_slide": 23,
+          "editable_text_shapes": [
+            {
+              "shape_index": 1,
+              "name": "TextBox 6",
+              "text": "23",
+              "left": 11650139,
+              "top": 6389959,
+              "width": 278732,
+              "height": 269237
+            }
+          ],
+          "pictures": [
+            {
+              "shape_index": 0,
+              "name": "Изображение",
+              "left": -8270,
+              "top": -7149,
+              "width": 12208540,
+              "height": 6872298,
+              "pixels": [
+                2750,
+                1548
+              ],
+              "extension": "png"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
